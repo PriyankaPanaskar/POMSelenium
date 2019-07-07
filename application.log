@@ -1,0 +1,13 @@
+2019-07-07 13:30:24,357  INFO [main] LoginTest:35 - ******** Starting Login Class Test Cases ***************
+2019-07-07 13:30:30,141  INFO [main] LoginTest:41 - url is launched -- https://ui.freecrm.com/
+2019-07-07 13:30:30,142  INFO [main] LoginTest:48 - Test - loginPageTitleTest - starting
+2019-07-07 13:30:30,150  INFO [main] LoginTest:51 - login page title is: CRM
+2019-07-07 13:30:30,153  INFO [main] LoginTest:53 - Test - loginPageTitleTest -- ended
+2019-07-07 13:30:30,844  INFO [main] LoginTest:71 - Browser is closed
+2019-07-07 13:30:30,850  INFO [main] LoginTest:35 - ******** Starting Login Class Test Cases ***************
+2019-07-07 13:30:36,145  INFO [main] LoginTest:41 - url is launched -- https://ui.freecrm.com/
+2019-07-07 13:30:36,146  INFO [main] LoginTest:59 - Test - freeCrmLoginTest - starting
+2019-07-07 13:30:36,147  INFO [main] LoginTest:60 - Username is: raghav.ankireddy@gmail.com
+2019-07-07 13:30:36,147  INFO [main] LoginTest:61 - Password is: Meta@1234
+2019-07-07 13:30:36,453  INFO [main] LoginTest:63 - Test - freeCrmLoginTest - ended
+2019-07-07 13:30:37,128  INFO [main] LoginTest:71 - Browser is closed
